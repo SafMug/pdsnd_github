@@ -1,15 +1,20 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+12/11/2022 was when I created the project and README.md file
 
 ### PROGRAMMING FOR DATA SCIENCE WITH PYTHON
 
 ### Description
-Analyzing data of DVD rental and US Bikeshare in 3 cities
+Analyzing data of DVD rental and US Bikeshare in 3 cities.
+The 3 cities are New York, Chicago, Washington
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
+bikeshare.py
+dvd_rental
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I used google and python.org
