@@ -6,7 +6,7 @@ Include the date you created this project and README file.
 ### PROGRAMMING FOR DATA SCIENCE WITH PYTHON
 
 ### Description
-Describe what your project is about and what it does
+Analyzing data of DVD rental and US Bikeshare in 3 cities
 
 ### Files used
 Include the files used
