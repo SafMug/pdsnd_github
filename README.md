@@ -7,7 +7,7 @@
 
 ### Description
 Analyzing data of DVD rental and US Bikeshare in 3 cities.
-The 3 cities are New York, Chicago, Washington
+The 3 cities are New York, Chicago, Washington.
 
 ### Files used
 chicago.csv
@@ -15,6 +15,7 @@ new_york_city.csv
 washington.csv
 bikeshare.py
 dvd_rental
+And PDF of DVD rental diagram.
 
 ### Credits
 I used google and python.org
